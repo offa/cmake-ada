@@ -1,4 +1,4 @@
-# CMake Ada
+# [CMake Ada](https://github.com/offa/cmake-ada)
 
 Ada language support for CMake.
 
